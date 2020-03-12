@@ -8,6 +8,7 @@ export default class App extends Component {
           <div>WestSide University</div> 
           <div className='link-wrap'>
               <div className='links'>Home</div>
+              <h1>HELLO WORLD</h1>
               <div className='links'>About</div> 
           </div>
         </nav>
